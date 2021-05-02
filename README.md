@@ -1,5 +1,7 @@
 # Ardunio-Solar-Tracker
 Initial stage of our project- ![image](https://user-images.githubusercontent.com/83528610/116805542-d5525280-ab44-11eb-9c3a-75bee6948ca4.png)
+
+
 Finally ended up like this- ![image](https://user-images.githubusercontent.com/83528610/116805595-28c4a080-ab45-11eb-8d6f-1b39201608cc.png)
 
 Solar tracker  is a device which will automatically orient in the direction of high intensity sunlight to effectively harness maximum solar power.we can develop an automatic solar tracker by using a solar panel, light-dependent resistor (LDR) and DC motors based on ardunio platform.
